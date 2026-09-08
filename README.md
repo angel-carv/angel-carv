@@ -9,7 +9,7 @@ Stego is a project about hiding encrypted messages in .png photos.
 
 This pushed me to learn about passwords, encryption, and the invisible processes that occur everyday to keep our information safe. 
 
-I started off learning linux and security fundementals on TryHackMe! This moved me to get my Security+ certification that I've held since March 2026. I'm currently learning about networking while studying for the CCNA (Cisco Certified Network Administrator) certification. 
+I started off learning linux and security fundementals on TryHackMe! This moved me to get my Security+ certification that I've held since March 2026. I'm currently learning about networking while studying for the CCNA (Cisco Certified Network Associate) certification. 
 
 ## Projects that I'm working on right now include:
   - A homelab SOC environment. The environment is meant to simulate an office environment with an Ubuntu server, a Windows 10 employee, and a kali linux attacker! 
