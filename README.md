@@ -15,8 +15,8 @@ I started off learning linux and security fundementals on TryHackMe! This moved 
   -A homelab SOC environment. The environment is meant to simulate an office environment with an Ubuntu server, a Windows 10 employee, and a kali linux attacker! 
 
 ## What I'm currently studying:
-  -Networking fundamentals for the CCNA
-  -Capture the flag techniques to participate in Collegiate Cyber Defense Competition (CCDC)
+  - Networking fundamentals for the CCNA
+  - Capture the flag techniques to participate in Collegiate Cyber Defense Competition (CCDC)
 
 ## A Bit About Me. 
   - I love music! I play the bass and have a record collection!
