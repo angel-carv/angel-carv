@@ -11,14 +11,14 @@ This pushed me to learn about passwords, encryption, and the invisible processes
 
 I started off learning linux and security fundementals on TryHackMe! This moved me to get my Security+ certification that I've held since March 2026. I'm currently learning about networking while studying for the CCNA (Cisco Certified Network Administrator) certification. 
 
-##Projects that I'm working on right now include:
+## Projects that I'm working on right now include:
   -A homelab SOC environment. The environment is meant to simulate an office environment with an Ubuntu server, a Windows 10 employee, and a kali linux attacker! 
 
-##What I'm currently studying:
+## What I'm currently studying:
   -Networking fundamentals for the CCNA
   -Capture the flag techniques to participate in Collegiate Cyber Defense Competition (CCDC)
 
-##A Bit About Me. 
+## A Bit About Me. 
   - I love music! I play the bass and have a record collection!
   - I like to play video games like stardew valley, overwatch, and skyrim.
   - I enjoy cooking traditional Mexican food my mom made growing up. 
